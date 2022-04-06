@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 require "ipaddress"
 
 input=ARGV[0].chomp
